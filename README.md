@@ -1,7 +1,7 @@
 # Twitch Image Resizer
 Resizes images for twitch format.
 
-# Libraries Needed
+# Libraries Needed To Build The Source
 OpenCV
 Download: https://opencv.org/releases/
 
